@@ -1,3 +1,3 @@
-# theofficeapp
+# The Office App
 
-A new Flutter project.
+A new Flutter project about a TV serie.
